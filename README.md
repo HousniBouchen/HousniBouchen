@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HousniBouchen
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning VB .NET
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: housni.bouchen2019@gmail.com
 
